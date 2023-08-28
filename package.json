@@ -12,7 +12,9 @@
   "dependencies": {
     "canvas-confetti": "1.6.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "serve": "^14.2.1",
+    "start": "serve dist"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
