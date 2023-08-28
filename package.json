@@ -14,7 +14,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "serve": "^14.2.1",
-    "start": "serve dist"
+    "start": "serve dist -s"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
